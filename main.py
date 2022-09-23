@@ -4,6 +4,7 @@ def main():
     В ней надо заменить pass на ваш код
     """
 
+
 print('hello, world')
 
 
